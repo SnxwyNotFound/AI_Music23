@@ -1,0 +1,36 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
+
+#h3
+{
+  font-family: 'Licorice', cursive;
+  font-family: 'Pushster', cursive;
+  font-family: 'Vujahday Script', cursive;
+}
+
+#note
+{
+  font-size: 15px;
+  color: black;
+}
+body
+{
+  background-size: cover;	
+  background-color: rgb(193, 131, 243);
+  font-family: 'Papyrus';
+}
+  #song
+  {
+  	font-size: 23px;
+  	margin: 15px;
+  }
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+  }
